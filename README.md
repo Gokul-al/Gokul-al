@@ -1,7 +1,7 @@
 Hi, I'm Gokulnath 👋
 I'm a passionate fullstack developer with a focus on Python and modern front-end technologies. I enjoy building clean, efficient, and scalable web applications.
 
-🔧 Tech Stack: Python, Django, JavaScript, React, HTML/CSS
+🔧 Tech Stack: JavaScript, React, HTML/CSS
 📂 Check out my projects on GitHub: github.com/Gokul-al/Gokul-al
 
 - 👋 Hi, I’m @Gokul-al  
